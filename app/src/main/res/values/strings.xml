@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">spinner</string>
+
+
+
+
+
+
+    <string-array name="sub">
+
+        <item>--/Select/--</item>
+        <item>English</item>
+        <item>Islamiat</item>
+        <item>Science</item>
+        <item>Social Studies</item>
+        <item>Urdu</item>
+        <item>Math</item>
+        <item>Arts</item>
+
+    </string-array>
+</resources>
